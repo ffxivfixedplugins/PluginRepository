@@ -4,7 +4,7 @@
     "Name": "AutoDuty Optimized",
     "Description": "A Optimized plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
     "Tags": [],
-    "InternalName": "AutoDuty",
+    "InternalName": "AutoDutyOptimized",
     "RepoUrl": "https://github.com/ffxivfixedplugins/AutoDutyOptimized",
     "DownloadCount": 329715,
     "LastUpdate": 1735750397562,
