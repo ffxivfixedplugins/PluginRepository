@@ -14,9 +14,6 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": "11",
     "Changelog": "## What's Changed\r\n* Fixed: ffxivcode/AutoDuty#707",
-    "TestingAssemblyVersion": "0.0.0.176",
-    "DownloadLinkTesting": "https://github.com/ffxivfixedplugins/AutoDutyOptimized/releases/download/1.0.0/AutoDutyOptimized-1.0.0.zip",
-    "TestingDalamudApiLevel": "11",
     "IconUrl": "https://s3.puni.sh/media/plugin/54/icon-15ug2vnr9m1.png",
     "ImageUrls": [
       "https://s3.puni.sh/media/plugin/54/image-15l1o9gf3yg.png",
